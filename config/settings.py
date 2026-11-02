@@ -1,3 +1,4 @@
+# Шахвердиева
 """
 Django settings for config project.
 
